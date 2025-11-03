@@ -42,7 +42,7 @@ Simply open the index.html file in your web browser.
 
 ---
 
-##🧠 How It Works
+## 🧠 How It Works
 When you open the tool:
 You input crop type, soil condition, or nutrient details.
 The JavaScript logic inside script.js processes your inputs.
@@ -51,7 +51,7 @@ The system displays a fertilizer recommendation instantly.
 
 ---
 
-🌱 Future Improvements
+## 🌱 Future Improvements
 🔹 Add backend or database support
 🔹 Integrate a weather API for better recommendations
 🔹 Include a simple AI/ML model for smarter predictions
