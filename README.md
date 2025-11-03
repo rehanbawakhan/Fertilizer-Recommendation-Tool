@@ -37,7 +37,7 @@ git clone https://github.com/rehanbawakhan/Fertilizer-Recommendation-Tool.git
 ```bash
 cd Fertilizer-Recommendation-Tool
 ```
-###3️⃣ Open the project
+3️⃣ Open the project
 Simply open the index.html file in your web browser.
 
 ---
