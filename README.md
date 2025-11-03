@@ -43,11 +43,11 @@ Simply open the index.html file in your web browser.
 ---
 
 ## 🧠 How It Works
--When you open the tool:
--You input crop type, soil condition, or nutrient details.
--The JavaScript logic inside script.js processes your inputs.
--The system displays a fertilizer recommendation instantly.
--(All processing is done locally — no internet or AI model required.)
+When you open the tool:
+You input crop type, soil condition, or nutrient details.
+The JavaScript logic inside script.js processes your inputs.
+The system displays a fertilizer recommendation instantly.
+(All processing is done locally — no internet or AI model required.)
 
 ---
 
